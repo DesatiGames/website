@@ -13,5 +13,11 @@ jobs:
       with:
         node-version: '14'
     - run: npm install
+
+    - name: Setup Git user
+      run: |
+        git config --global user.name "Github Pages"
+        git config --global user.email "pages@github.io"
+
     - name: Deploy
       run: npm run deploy
