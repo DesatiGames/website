@@ -14,4 +14,4 @@ jobs:
         node-version: '14'
     - run: npm install
     - name: Deploy
-      run: npm deploy
+      run: npm run deploy
