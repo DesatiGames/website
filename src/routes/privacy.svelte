@@ -21,22 +21,18 @@
 <div class="content">
 	<h1>Privacy Policy</h1>
 	<p>
-		Shiesty Games built the Wheel Impact app as an Ad Supported app. This SERVICE is provided by
-		Shiesty Games at no cost and is intended for use as is.
+		Shiesty Games builds mobile games and apps and are provided as a service to end users.
+                The services are provided as is and are either completely free, ad supported, contain in-app purchases or a combination of the latter two.
 	</p>
 	<p>
 		This page is used to inform visitors regarding our policies with the collection, use, and
 		disclosure of Personal Information if anyone decided to use our Service.
 	</p>
 	<p>
-		If you choose to use our Service, then you agree to the collection and use of information in
+		If you choose to use our Services, then you agree to the collection and use of information in
 		relation to this policy. The Personal Information that we collect is used for providing and
 		improving the Service. We will not use or share your information with anyone except as described
 		in this Privacy Policy.
-	</p>
-	<p>
-		The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions,
-		which is accessible at Wheel Impact unless otherwise defined in this Privacy Policy.
 	</p>
 	<p><strong>Information Collection and Use</strong></p>
 	<p>
