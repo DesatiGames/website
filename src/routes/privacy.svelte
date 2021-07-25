@@ -21,22 +21,23 @@
 <div class="content">
 	<h1>Privacy Policy</h1>
 	<p>
-		Shiesty Games builds mobile games and apps and are provided as a service to end users.
-                The services are provided as is and are either completely free, ad supported, contain in-app purchases or a combination of the latter two.
+		Shiesty Games builds mobile games and apps and are provided as a service to end users. The
+		services are provided as is and are either completely free, ad supported, contain in-app
+		purchases or a combination of the latter two.
 	</p>
 	<p>
 		This page is used to inform visitors regarding our policies with the collection, use, and
-		disclosure of Personal Information if anyone decided to use our Service.
+		disclosure of Personal Information if anyone decided to use our Services.
 	</p>
 	<p>
 		If you choose to use our Services, then you agree to the collection and use of information in
 		relation to this policy. The Personal Information that we collect is used for providing and
-		improving the Service. We will not use or share your information with anyone except as described
+		improving the Services. We will not use or share your information with anyone except as described
 		in this Privacy Policy.
 	</p>
 	<p><strong>Information Collection and Use</strong></p>
 	<p>
-		For a better experience, while using our Service, we may require you to provide us with certain
+		For a better experience, while using our Services, we may require you to provide us with certain
 		personally identifiable information, including but not limited to Unique Device Identifier. The
 		information that we request will be retained by us and used as described in this privacy policy.
 	</p>
@@ -45,26 +46,35 @@
 		<p>Link to privacy policy of third party service providers used by the app</p>
 		<ul>
 			<li>
-				<a href="https://www.google.com/policies/privacy/" target="_blank" rel="noopener noreferrer"
-					>Google Play Services</a
-				>
+				<a href="https://policies.google.com/privacy" target="_blank" rel="noopener noreferrer">Google</a>
 			</li>
-			<!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
 			<li>
-				<a href="https://unity3d.com/legal/privacy-policy" target="_blank" rel="noopener noreferrer"
-					>Unity</a
-				>
+				<a href="https://unity3d.com/legal/privacy-policy" target="_blank" rel="noopener noreferrer">Unity</a>
 			</li>
-			<!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
+			<li>
+				<a href="https://www.adcolony.com/privacy-policy" target="_blank" rel="noopener noreferrer">AdColony</a>
+			</li>
+			<li>
+				<a href="https://www.applovin.com/privacy" target="_blank" rel="noopener noreferrer">AppLovin</a>
+			</li>
+			<li>
+				<a href="https://www.facebook.com/about/privacy" target="_blank" rel="noopener noreferrer">Facebook</a>
+			</li>
+			<li>
+				<a href="https://www.mopub.com/en/legal/privacy" target="_blank" rel="noopener noreferrer">MoPub</a>
+			</li>
+			<li>
+				<a href="https://vungle.com/privacy" target="_blank" rel="noopener noreferrer">Vungle</a>
+			</li>
 		</ul>
 	</div>
 	<p><strong>Log Data</strong></p>
 	<p>
-		We want to inform you that whenever you use our Service, in a case of an error in the app we
+		We want to inform you that whenever you use our Services, in a case of an error in the app we
 		collect data and information (through third party products) on your phone called Log Data. This
 		Log Data may include information such as your device Internet Protocol (“IP”) address, device
-		name, operating system version, the configuration of the app when utilizing our Service, the
-		time and date of your use of the Service, and other statistics.
+		name, operating system version, the configuration of the app when utilizing our Services, the
+		time and date of your use of the Services, and other statistics.
 	</p>
 	<p><strong>Cookies</strong></p>
 	<p>
@@ -73,22 +83,22 @@
 		your device's internal memory.
 	</p>
 	<p>
-		This Service does not use these “cookies” explicitly. However, the app may use third party code
+		The Services does not use these “cookies” explicitly. However, the app may use third party code
 		and libraries that use “cookies” to collect information and improve their services. You have the
 		option to either accept or refuse these cookies and know when a cookie is being sent to your
-		device. If you choose to refuse our cookies, you may not be able to use some portions of this
-		Service.
+		device. If you choose to refuse our cookies, you may not be able to use some portions of the
+		Services.
 	</p>
 	<p><strong>Service Providers</strong></p>
 	<p>We may employ third-party companies and individuals due to the following reasons:</p>
 	<ul>
-		<li>To facilitate our Service;</li>
-		<li>To provide the Service on our behalf;</li>
+		<li>To facilitate our Services;</li>
+		<li>To provide the Services on our behalf;</li>
 		<li>To perform Service-related services; or</li>
-		<li>To assist us in analyzing how our Service is used.</li>
+		<li>To assist us in analyzing how our Services is used.</li>
 	</ul>
 	<p>
-		We want to inform users of this Service that these third parties have access to your Personal
+		We want to inform users of The Services that these third parties have access to your Personal
 		Information. The reason is to perform the tasks assigned to them on our behalf. However, they
 		are obligated not to disclose or use the information for any other purpose.
 	</p>
@@ -101,7 +111,7 @@
 	</p>
 	<p><strong>Links to Other Sites</strong></p>
 	<p>
-		This Service may contain links to other sites. If you click on a third-party link, you will be
+		The Services may contain links to other sites. If you click on a third-party link, you will be
 		directed to that site. Note that these external sites are not operated by us. Therefore, we
 		strongly advise you to review the Privacy Policy of these websites. We have no control over and
 		assume no responsibility for the content, privacy policies, or practices of any third-party
@@ -121,7 +131,7 @@
 		periodically for any changes. We will notify you of any changes by posting the new Privacy
 		Policy on this page.
 	</p>
-	<p>This policy is effective as of 2021-07-05</p>
+	<p>This policy is effective as of 2021-07-12</p>
 	<p><strong>Contact Us</strong></p>
 	<p>
 		If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us
