@@ -43,7 +43,7 @@
 	</p>
 	<div>
 		<p>The app does use third party services that may collect information used to identify you.</p>
-		<p>Link to privacy policy of third party service providers used by the app</p>
+		<p>Links to privacy policy of third party service providers used by the app</p>
 		<ul>
 			<li>
 				<a href="https://policies.google.com/privacy" target="_blank" rel="noopener noreferrer">Google</a>
