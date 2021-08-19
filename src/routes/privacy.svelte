@@ -66,6 +66,27 @@
 			<li>
 				<a href="https://vungle.com/privacy" target="_blank" rel="noopener noreferrer">Vungle</a>
 			</li>
+			<li>
+				<a href="https://developers.is.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/" target="_blank" rel="noopener noreferrer">ironSource</a>
+			</li>
+			<li>
+				<a href="https://www.mintegral.com/en/privacy/" target="_blank" rel="noopener noreferrer">Mintegral</a>
+			</li>
+			<li>
+				<a href="https://answers.chartboost.com/en-us/articles/200780269" target="_blank" rel="noopener noreferrer">Chartboost</a>
+			</li>
+<!-- 			<li>
+				<a href="https://snap.com/en-US/terms/personal-data" target="_blank" rel="noopener noreferrer">Snap Inc.</a>
+			</li> -->
+			<li>
+				<a href="https://ogury.com/privacy-policy/" target="_blank" rel="noopener noreferrer">Ogury</a>
+			</li>
+<!-- 			<li>
+				<a href="https://www.verizonmedia.com/policies/xw/en/verizonmedia/privacy/intl/index.html" target="_blank" rel="noopener noreferrer">Verizon Media</a>
+			</li> -->
+			<li>
+				<a href="https://www.inmobi.com/privacy-policy" target="_blank" rel="noopener noreferrer">InMobi</a>
+			</li>
 		</ul>
 	</div>
 	<p><strong>Log Data</strong></p>
